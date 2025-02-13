@@ -2,9 +2,10 @@
 - 👀 I’m interested in music, One Piece, and sports.
 - 🌱 I’m currently learning web development.
 - 💞️ I’m looking to collaborate on projects!
-- 📫 How to reach me instagram-cmendozaaaaa
+- 📫 How to reach me: instagram-cmendozaaaaa
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I skipped a grade
+- ⚡ Fun fact: I hate Assembly
+  
 
 <!---
 chrissirhc18/chrissirhc18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
